@@ -88,7 +88,12 @@ Build a responsive UI with ConstraintLayout
 Improve layout performance
 
 Pert 14
+Resource switching in Android
+Use resources for localization
+Create alternative resources
 
 Pert 15
+Language and locale resolution overview
+Designing your app to support additional locales
 
 https://developer.android.com/codelabs/starting-android-accessibility#0
