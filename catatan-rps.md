@@ -1,10 +1,10 @@
 # RANCANGAN RPS PEMROGRAMAN MOBILE LANJUT
-Pert 1:
+## Pert 1:
 Review Siklus pengembangan aplikasi mobile 
 Mengenal arsitektur n-tier
 Pengenalan REST API
 
-Pert 2:
+## Pert 2:
 Review pemrograman database
 Membuat API sederhana
 Membuat Program Android untuk mengakses API 
@@ -13,7 +13,7 @@ Membuat Program Android untuk mengakses API
 CPMK322	 mampu membuat aplikasi mobile dengan menerapkan basis data non-relasional	
 Pert 4-5:
 SUBCPMK3221	Mampu mengintegrasikan penggunaan Firebase dengan tool editor yang digunakan
-Pert 4:
+## Pert 4:
 Pengenalan Firebase
 https://youtu.be/dRYnm_k3w1w
 
@@ -21,7 +21,7 @@ Masuk ke dalam lingkungan Firebase Console
 Membuat Projek baru
 Membuat Project Firebase
 
-Pert 5:
+## Pert 5:
 Pengenalan Firebase Authentication
 Firebase Instance
 AuthUI Istance
@@ -29,10 +29,10 @@ FirebaseUser class
 AutCredential Class
 
 
-Pert 6-7:
+## Pert 6-7:
 SUBCPMK3222	Mampu membuat aplikasi mobile yang terhubung dengan Firebase
 
-Pert 6:
+## Pert 6:
 Mengenal database realtime dalam Firebase
 Realtime Database SDK
 https://firebase.google.com/docs/android/setup
