@@ -1,4 +1,11 @@
 # RANCANGAN RPS PEMROGRAMAN MOBILE LANJUT
+#CLO
+Kode	Deskripsi
+CLO043	Mahasiswa mampu membuat aplikasi mobile yang terkoneksi dengan API
+CLO044	Mahasiswa mampu membuat aplikasi mobile dengan menerapkan basis data non-relasional
+CLO045	Mahasiswa mampu memadukan berbagai macam komponen navigasi
+CLO046	Mahasiswa mampu menerapkan konsep accessibility dalam pengembangan aplikasi yang mendukung pengguna berkebutuhan khusus
+
 ## Pert 1:
 Review Siklus pengembangan aplikasi mobile 
 Mengenal arsitektur n-tier
